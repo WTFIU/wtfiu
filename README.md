@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-     I code for fun and to make my homegirl mad at me for being faster then her at coding
+     I code for fun 
       .
        me most the time in math (alg 1) -->
     </td>
