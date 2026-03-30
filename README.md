@@ -13,4 +13,5 @@
   </tr>
 </table>
 
-![Stats](https://readme-stats-fast.vercel.app/api?username=WTFIU)
+![Stats](https://readme-stats-fast.vercel.app/api?username=WTFIU) $ View Projects → [Click Here](https://github.com/WTFIU?tab=repositories)  
+$ Launch Terminal → [Click Here](https://replit.com/@WTFIU/Interactive-Terminal)
