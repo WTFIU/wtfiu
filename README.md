@@ -12,3 +12,5 @@
     </td>
   </tr>
 </table>
+
+![Stats](https://readme-stats-fast.vercel.app/api?username=WTFIU)
