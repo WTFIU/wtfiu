@@ -1,4 +1,4 @@
-# Ahhh... The Power Of Open Source ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WTFIU.profile) 
+# Ahhh... The Power Of Open Source ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WTFIU) ![GitHub Followers](https://img.shields.io/github/followers/WTFIU) ![Repo Stars](https://img.shields.io/github/stars/WTFIU)
 
 <table>
   <tr>
