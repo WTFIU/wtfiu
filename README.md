@@ -13,5 +13,4 @@
   </tr>
 </table>
 
-![Stats](https://readme-stats-fast.vercel.app/api?username=WTFIU) $ View Projects → [Click Here](https://github.com/WTFIU?tab=repositories)  
-$ Launch Terminal → [Click Here](https://replit.com/@WTFIU/Interactive-Terminal)
+![Stats](https://readme-stats-fast.vercel.app/api?username=WTFIU) ![Top Language](https://img.shields.io/github/languages/top/WTFIU?style=for-the-badge) [![My Repo](https://img.shields.io/badge/My_Repo-GitHub-blue)](https://github.com/WTFIU)
