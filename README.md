@@ -1,4 +1,4 @@
-# Ahhh... The Power Of Open Source
+# Ahhh... The Power Of Open Source ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WTFIU.profile)
 
 <table>
   <tr>
@@ -13,4 +13,4 @@
   </tr>
 </table>
 
-![Stats](https://readme-stats-fast.vercel.app/api?username=WTFIU) ![Top Language](https://img.shields.io/github/languages/top/WTFIU?style=for-the-badge) [![My Repo](https://img.shields.io/badge/My_Repo-GitHub-blue)](https://github.com/WTFIU)
+![Stats](https://readme-stats-fast.vercel.app/api?username=WTFIU)
